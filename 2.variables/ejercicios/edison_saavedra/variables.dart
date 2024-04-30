@@ -13,6 +13,7 @@ main() {
   late String fecha;
   fecha = '25 de noviembre del 2024';
   print(fecha);
+  print(fecha); 
 
 /*  */
 }

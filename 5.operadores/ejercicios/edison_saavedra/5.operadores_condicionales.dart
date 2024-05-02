@@ -1,6 +1,6 @@
 main() {
 
-  // expresiones condicionales
+  // expresiones condicionales/
   // condicion es verdadera expr 1 y es falsa expre 2
   // condicion ? expr1 : expr2; // condicion ternaria
   // si la condicion es verdadera retorma expresion 1si es falsa retorna expresion 2
